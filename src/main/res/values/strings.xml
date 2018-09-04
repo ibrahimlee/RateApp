@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RateApp</string>
+    <string name="txt_rate_app">Rate App</string>
+    <string name="txt_btn_ask_me_later">Ask me later</string>
+    <string name="txt_btn_cancel">Cancel</string>
+    <string name="txt_question_rate">How much do you like this App?</string>
+    <string name="txt_successful">Successful!</string>
+</resources>
